@@ -1,0 +1,132 @@
+.desktop-desktop-wrapper {
+    background-color: #f6eaea;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop-desktop {
+    background-color: #f6eaea;
+    border: 1pc none;
+    height: 1024px;
+    width: 1440px;
+}
+
+.desktop-overlap-group {
+    background-color: white;
+    border-radius: 10px;
+    height: 570px;
+    left: 292px;
+    position: relative;
+    top: 213px;
+    width: 825px;
+}
+
+.image {
+    height: 570px;
+    left: 0;
+    object-fit: cover;
+    top: 0;
+    width: 394px;
+    border-radius: 10px 0 0 10px;
+}
+
+.desktop-text-wrapper {
+    color: #535353;
+    font-family: "Inter" , Helvetica;
+    font-size: 24px;
+    font-weight: 600px;
+    left: 459px;
+    position: absolute;
+    top: 65px;
+}
+
+.info {
+    color: black;
+    font-family: "Inter" , Helvetica;
+    font-size: 15px;
+    font-weight: 400px;
+    left: 459px;
+    position: absolute;
+    top: 163px;
+    margin-top: 130px;
+    line-height: normal;
+}
+
+.header {
+    color: #742626;
+    font-family: "Playfair Display" , Helvetica;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 700px;
+    left: 459px;
+    position: absolute;
+    margin-top: 130px;
+    top: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    width: 400px;
+  
+}
+
+
+
+.price {
+    color: #742626;
+    font-family: "Playfair Display" , Helvetica;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700px;
+    left: 459px;
+    position: absolute;
+    top: 334px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 160px;
+    margin-top: 20px;
+}
+
+.button {
+    background-color: #742626;
+    color: white;
+    font-family: "Inter" , Helvetica;
+    padding: 10px;
+    left: 459px;
+    position: absolute;
+    top: 414px;
+    border: 1 solid #742626;
+    border: none;
+    border-radius: 3px;
+    font-size: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: white;
+    color: #742626;
+    border: 1px solid #742626;
+}
+
+
+/*.card {
+    width: 700px;
+    border-radius:10px;
+    border: 1px solid white;
+    background-color: rgb(218, 217, 217);
+}
+
+.image {
+    max-width: 350px;
+    max-height: 100%;
+    display: inline-block;
+}
+
+.details {
+    display: inline-block;
+}
+
+.preview {
+    display: inline-block;
+}*/
